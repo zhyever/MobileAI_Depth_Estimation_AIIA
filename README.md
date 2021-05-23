@@ -8,9 +8,9 @@
   </p>
 
 ## Examples (left: imput RGB image. Right: output Depth image)
-<p float="left">
-<img width="460" height="300" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/rgb.png"/>
-<img width="460" height="300" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/depth.png">
+<p float="center">
+<img width="320" height="280" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/rgb.png"/>
+<img width="320" height="280" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/depth.png">
   </p>
 
 ## Code base
