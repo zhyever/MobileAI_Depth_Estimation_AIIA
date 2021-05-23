@@ -8,12 +8,13 @@
   </p>
 
 ## Examples (left: imput RGB image. Right: output Depth image)
-<p float="center">
-<img width="320" height="280" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/rgb.png"/>
-<img width="320" height="280" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/depth.png">
-  </p>
 
 
+| Input RGB Image         | Estimation depth Image   |
+|-------------------------|-------------------|
+|   <img width="320" height="280"  src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/rgb.png" alt="Drawing" style="width: 250px;"/>                     |          
+ <img width="320" height="280"  src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/depth.png" alt="Drawing" style="width: 250px;"/>                   |
+                                                                                                                                
 ## Code base
 https://github.com/jojo13572001/DenseDepth
 
