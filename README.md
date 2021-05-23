@@ -13,10 +13,11 @@
 <img width="320" height="280" src="https://github.com/ZhenyuLi123/mobileAI_depth_estimation/blob/master/pictures/depth.png">
   </p>
 
+
 ## Code base
 https://github.com/jojo13572001/DenseDepth
 
 ## Note
 Sorry for the dirty implement. 
 
-Busy for work. If I have time, I will finish this repo (if there is someone follow)
+Busy for work. If I have time, I will finish this repo. (if there is someone following.)
