@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../SegDepth/.idea/SegDepth.iml" filepath="$PROJECT_DIR$/../../SegDepth/.idea/SegDepth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/depth_estimation.iml" filepath="$PROJECT_DIR$/.idea/depth_estimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../depth_pytorch/.idea/depth_pytorch.iml" filepath="$PROJECT_DIR$/../depth_pytorch/.idea/depth_pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../monodepth2/monodepth2-ddv-normal-SA_device1/.idea/monodepth2-ddv-normal-SA_device1.iml" filepath="$PROJECT_DIR$/../../monodepth2/monodepth2-ddv-normal-SA_device1/.idea/monodepth2-ddv-normal-SA_device1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../monodepth2/monodepth2-master/.idea/monodepth2-master.iml" filepath="$PROJECT_DIR$/../../monodepth2/monodepth2-master/.idea/monodepth2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pytorch-semantic-segmentation/.idea/pytorch-semantic-segmentation.iml" filepath="$PROJECT_DIR$/../../pytorch-semantic-segmentation/.idea/pytorch-semantic-segmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../semantic-segmentation-main/.idea/semantic-segmentation-main.iml" filepath="$PROJECT_DIR$/../../semantic-segmentation-main/.idea/semantic-segmentation-main.iml" />
+    </modules>
+  </component>
+</project>

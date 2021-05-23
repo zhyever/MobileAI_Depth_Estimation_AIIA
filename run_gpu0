@@ -1,0 +1,7 @@
+#! /bin/bash
+
+python3.6 train_model_robust.py --epoch 100 --gpu 0 --name robust --log_val robust.txt
+python3.6 train_model_robust.py --epoch 100 --gpu 0 --name robust_1 --log_val robust_1.txt
+python3.6 train_model_robust.py --epoch 100 --gpu 0 --name robust_2 --log_val robust_2.txt
+python3.6 train_model_robust.py --epoch 100 --gpu 0 --name robust_3 --log_val robust_3.txt
+
